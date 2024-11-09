@@ -2,9 +2,9 @@
 - Overly obsessed with early 2000s aesthetics and nature✨
 
 # WOW╰(*°▽°*)╯ HERES MY TOTALLY UNIQUE THING WHERE I HAVE THESE STATS
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Averyden&theme=jolly)
+![Averyden's Stats](https://github-readme-stats.vercel.app/api?username=Averyden&theme=jolly&show_icons=true&hide_border=true&count_private=true)
 ### ISNT THIS AWESOME? (^///^)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Averyden&layout=donut&theme=jolly)
+![Averyden's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Averyden&theme=jolly&show_icons=true&hide_border=true&layout=compact)
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢤⣀⠀⠀⠀⠀⠀⠀⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠑⠂⢀⣀⣀⣀⡐⠀⠀⠀⠀⠀⢀⣀⣠⠤⠤⠤⠤⣄⣀⣀⣤⣤⠤⢤⠤⢄⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
