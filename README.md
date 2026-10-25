@@ -30,10 +30,10 @@ Currently experimenting with different technologies and building projects on the
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Averyden&theme=jolly&show_icons=true&hide_border=true&layout=compact)
 
-.       *          .             *
+                 .       *          .             *
       *                    .                 .
              .       _..._         *
-                    .:::::::.              .
+                    .:::::::.
        *           :::::::::       .
               .    ':::::::'                    *
     .                    '       *
